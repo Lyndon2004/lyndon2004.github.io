@@ -1,6 +1,6 @@
 # lyndon2004.github.io
 
-![个人照片](/Users/yiquan/Desktop/selfie/WechatIMG520.jpg)
+![个人照片](Selfie.jpg)
 
 ## 自我介绍
 
